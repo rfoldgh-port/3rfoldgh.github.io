@@ -1,0 +1,81 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+p.ski-lift-app-description {
+    float: left;
+    width: 22%;
+    margin: 10em 0;
+    line-height: 2em;
+    margin-left: -10em;
+}
+
+div#fortessa-software {
+    margin-right: 5em;
+    margin-top: 16em;
+}
+
+.software-logo {
+    margin: 0 20px 0 0;
+    height: auto;
+    width: 35px;
+}
+
+img.img-responsive.site-image {
+    height: 275px;
+    width: 400px;
+}
+
+
+img.img-responsive.profile-image {
+    border-radius: 50%;
+}
+
+
+img.ski-lift-app-desktop-image {
+    height: 800px;
+    /* float: right; */
+    margin-left: -22em;
+}
+
+img.ski-lift-app-iphone-image {
+    z-index: 1000;
+    height: 700px;
+
+}
+
+.ski-lift-app-div {
+    display: inline-block;
+    width: 112%;
+    text-align: center;
+}
+
+section#ski-lift-app-desktop-id {
+    width: 120%;
+    display: block;
+    text-align: center;
+}
+
+p.lego-builder-app-description {
+    float: right;
+    width: 22%;
+    margin: 10em 0;
+    line-height: 2em;
+    margin-right: 2em;
+}
+
+
+.lego-builder-app-div {
+    width: 133%;
+}
+
+
+.fa-fw {
+    margin-top: .6em;
+}
+
+
+div#pestman-software {
+    margin-top: 3em;
+}

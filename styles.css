@@ -1,0 +1,96 @@
+
+i.fa.fa-fw.fa-github.portfolio-icon {
+    color: black;
+}
+
+.desktop-image{
+  opacity:0;
+  position:relative;
+  right:5em;
+
+}
+
+#scroll {
+  text-align: center;
+}
+.animate {
+  opacity: 1;
+  transition: 1s ease-in-out;
+  -moz-transition: 1s ease-in-out;
+  -webkit-transition: 1s ease-in-out;
+}
+
+#desktop.animate{
+  transform: translate(5em,0);
+  -moz-transform: translate(5em,0);
+  -webkit-transform:translate(5em,0);
+}
+
+.profile-image img {
+    max-height: 300px;
+    width: auto;
+    display:block;
+    margin:auto;
+    border-radius:100%;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#portfolio img {
+    max-width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+#portfolio p {
+    max-width: 500px;
+    margin: 0 auto 30px;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
+
+img.software-logo {
+    display: inline-block !important;
+    height: 50px;
+    width: auto;
+    margin-right: 20px !important;
+}
+
+body h1,h2,h3,h4,h5, p, form{
+  text-align:center;
+}
+
+.intro-text {
+    text-align: center;
+}
+
+
+.software {
+    text-align:center;
+}
+
+p {
+    line-height: 2em;
+}
+
+
+/*@media only screen and (max-width: 767px){
+  #portfolio img {
+    max-width: 200px;
+}
+}*/
